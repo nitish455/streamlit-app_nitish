@@ -8,5 +8,5 @@ plotly.express
 plotly.graph
 plotly
 pip
-
+pip install --upgrade pip
 
